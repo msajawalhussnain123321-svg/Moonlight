@@ -1,0 +1,6 @@
+{
+  "name": "Moon Light",
+  "description": "Premium E-commerce Mobile Application with dynamic catalogs, Google Sign-In, and restricted secure Admin panel, owned by Muhammad Sajawal Hussnain & Miss Mano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
